@@ -7,3 +7,7 @@ h1 {
     background-image: url(./images/tiles.jpg);
     
 }
+
+section h2 {
+    font-family: Helvetica;
+}
